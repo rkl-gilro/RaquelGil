@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a researcher in computational colour at Justus-Liebig Universität Giessen. 
 
-I have experience in a large num-ber of colour related problems ranging from colour stabilisation to HDR imaging, de-mosaicking, colour constancy, and colorcalibration. 
+I have experience in a large number of colour related problems ranging from colour stabilisation to HDR imaging, demosaicking, colour constancy, and colour calibration. 
 
-Currently, I am involved ina multi-disciplinary project in which we focus on how to colour calibrate virtual environments for colour constancy experiments. 
+Currently, I am involved in a multidisciplinary project in which we focus on how to colour calibrate virtual environments for colour constancy experiments. 
 

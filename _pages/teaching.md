@@ -8,7 +8,7 @@ nav: true
 
 ### Justus-Liebig Universität, Germany ###
 
-	* Master and Bachelor Theses co-supervision
+* Master and Bachelor Theses co-supervision
 
 
 
@@ -18,9 +18,9 @@ nav: true
 
 ### Universitat Pompeu Fabra, Spain ###
 
-	* **2014 - 2015** (40 hours) Linear algebra practice and labs.
-	* **2015 - 2016** (40 hours) Linear algebra practice and labs.
-	* **2016 - 2017** (40 hours) Linear algebra practice and labs.
+*  __2014 - 2015:__ Linear algebra practice and labs  (40 hours).
+*  __2015 - 2016:__ Linear algebra practice and labs (40 hours).
+*  __2016 - 2017:__ Linear algebra practice and labs (40 hours).
 
-	* Bachelor Thesis co-supervision
+*  Bachelor Thesis co-supervision
 

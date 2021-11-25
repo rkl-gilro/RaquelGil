@@ -18,9 +18,9 @@ nav: true
 
 ### Universitat Pompeu Fabra, Spain ###
 
-	* 2014 - 2015 (40 hours) Linear algebra practice and labs.
-	* 2015 - 2016 (40 hours) Linear algebra practice and labs.
-	* 2016 - 2017 (40 hours) Linear algebra practice and labs.
+	* **2014 - 2015** (40 hours) Linear algebra practice and labs.
+	* **2015 - 2016** (40 hours) Linear algebra practice and labs.
+	* **2016 - 2017** (40 hours) Linear algebra practice and labs.
 
 	* Bachelor Thesis co-supervision
 

@@ -8,7 +8,8 @@ years_conf: [2020, 2019, 2017, 2016]
 nav: true
 ---
 
-## Journals ##
+
+## <span style="color:#00aaaa"> **Journals** </span> ## 
 
 <div class="publications">
 
@@ -21,7 +22,7 @@ nav: true
 
 
 
-## Conferences ##
+## <span style="color:#00aaaa">**Conferences**</span> ##
 
 <div class="publications">
 

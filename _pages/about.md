@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Justus-Liebig Universität</a>. (CO)2
+subtitle: <a href='#'>Justus-Liebig Universität</a> (CO)2
 
 profile:
   align: right
@@ -34,7 +34,7 @@ That question I tried to answer during my PhD.  For that, I focused on the colou
 
 One of the reasons is the limited dynamic range that the sensor can capture. High dynamic range imaging is a challenging topic in the cinema industry, professional cameras should reach high standards. 
 But still, cameras lack the adaptability of our eyes. 
-My suggestion would be … consider always working with RAW!
+My suggestion would be… consider always working with RAW!
 
 If we think about colour, why the same camera models do not capture/present the same colours? And what if we want to achieve the same professional standards working with a DSLR camera? Colour matching techniques can help us bring the image set to a reference colour space.
 

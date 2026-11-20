@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-11-02
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Gave the workshop _W2: Exploring the Challenges and Opportunities of using XR for Colour Research_ at the 34th Color and Imaging Conference (CIC34), Barcelona, 2–6 November 2026.
